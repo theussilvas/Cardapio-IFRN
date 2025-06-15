@@ -9,3 +9,5 @@
 |RNF04| Acessibilidade| O site deve conter textos alternativos para imagens | Acessibilidade|  100% das imagens devem ter texto alternativo significativo. | 
 |RNF05| Resposta a ações| O site deve conter feedbacks visuais para interações do usuário| FeedBack ao usuário|  Feedback visível em até 200ms após a interação do usuário. | 
 |RNF06| Suporte a acesso | O site deve suportar alto número de requisições de acesso simultanêos sem perda de performance| Escalibidade| O sistema de suportar pelo menos 200 requisições simultâneas com tempo de resposta menor que 5 segundos|
+| RNF07      | Alta disponibilidade | O sistema deve estar disponível para acesso dos usuários pelo menos 99% do tempo, principalmente em horários de refeições. | Confiabilidade   | Uptime mínimo de 99% mensal.                  |
+| RNF08      | Segurança de dados   | O sistema deve proteger dados pessoais e alimentares dos usuários, como alergias e preferências, usando autenticação segura e criptografia de dados. | Segurança       | Dados sensíveis criptografados e autenticação obrigatória para ações protegidas. |
