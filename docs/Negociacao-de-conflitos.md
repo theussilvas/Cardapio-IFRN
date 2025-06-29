@@ -1,5 +1,3 @@
----
-
 ## 🛠️ Negociação de Requisitos: Conflito Identificado e Resolvido
 
 ### 🔍 **Conflito Identificado**
