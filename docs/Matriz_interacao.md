@@ -1,4 +1,3 @@
----
 
 ## 📊 Matriz de Interação entre Requisitos (Histórias de Usuário)
 
