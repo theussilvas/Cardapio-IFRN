@@ -31,5 +31,5 @@ Abaixo, os requisitos do projeto e seus respectivos estados no ciclo de vida:
 
 ## 📌 Diagrama de Estados
 
-![Diagrama de Estados](imgs/diagrama-de-estado.png)
+![Diagrama de Estados](diagramas/imgs/diagrama-de-estado.png)
 
